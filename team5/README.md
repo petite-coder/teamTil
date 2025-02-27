@@ -7,3 +7,4 @@
 | 김상윤 | [📂 sangyun ](sangyun/) |
 | 김영인 | [📂 yeongin ](yeongin/) |
 | 윤혜진 | [📂 hyejin ](hyejin/) |
+| 최은수 | [📂 eunsu ](eunsu/) |
