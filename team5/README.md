@@ -6,4 +6,4 @@
 | 윤선현 | [📂 sunhyun ](sunhyun/) |
 | 김상윤 | [📂 sangyun ](sangyun/) |
 | 김영인 | [📂 yeongin ](yeongin/) |
-|  | [📂 ]() |
+| 윤혜진 | [📂 hyejin ](hyejin/) |
