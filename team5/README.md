@@ -5,5 +5,5 @@
 | 이예은 | [📂 yeeeun](yeeeun/) |
 | 윤선현 | [📂 sunhyun ](sunhyun/) |
 | 김상윤 | [📂 sangyun ](sangyun/) |
-|  | [📂 ]() |
+| 김영인 | [📂 yeongin ](yeongin/) |
 |  | [📂 ]() |
