@@ -8,3 +8,4 @@
 | 김영인 | [📂 yeongin ](yeongin/) |
 | 윤혜진 | [📂 hyejin ](hyejin/) |
 | 최은수 | [📂 eunsu ](eunsu/) |
+| 김유진 | [📂 yujin ](yujin/) |
