@@ -2,4 +2,7 @@
 
 <br>
 
-- [🚀 **회고5팀 회고록**](team5/)
+| <img src="https://petite-coder.github.io/assets/img/posts/til_thumb@2x.jpg" width="500px"> |
+|:---:|
+|[🚀 **회고5팀 회고록**](team5/)|
+
