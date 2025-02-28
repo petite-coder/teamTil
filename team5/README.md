@@ -3,7 +3,7 @@
 <img src="https://petite-coder.github.io/assets/img/posts/til_thumb@2x.jpg" width="500px">
 
 | Team5 | 블로그 및 게시글 |
-|:-------:|:------------------------------------:|
+|:-------:|:------------------------------------|
 | 이예은 | [📂 yeeeun](yeeeun/) |
 | 윤선현 | [📂 sunhyun ](sunhyun/) |
 | 👑 김상윤 | [📂 sangyun ](sangyun/) |
